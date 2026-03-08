@@ -164,10 +164,10 @@ complete hardware-level repair of RF subsystem
 The repair demonstrates the process of diagnosing and replacing a BGA RF chip on a smartphone logic board, restoring full communication capability without replacing the entire motherboard.
 ## Image
 
-!(1.jpg)
-!(2.png)
-!(3.jpg)
-!(4.jpg)
-!(5.png)
-!(6.png)
-!(7.png)
+![sas7e](1.jpg)
+![sas7e](2.png)
+![sas7e](3.jpg)
+![sas7e](4.jpg)
+![sas7e](5.png)
+![sas7e](6.png)
+![sas7e](7.png)
