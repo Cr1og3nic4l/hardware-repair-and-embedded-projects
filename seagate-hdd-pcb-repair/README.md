@@ -133,3 +133,4 @@ data recovery troubleshooting
 ![Soldering](5.JPG)
 ![Soldering](6.jpg)
 ![Soldering](7.jpg)
+
