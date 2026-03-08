@@ -64,11 +64,13 @@ Linux troubleshooting and system configuration
 SSH remote access and headless setup  
 Boot configuration and device overlay management  
 GPIO peripheral integration
-![image](/1.jpg)
-![image](images/2.jpg)
-![image](images/3.jpg)
-![image](images/4.jpg)
-![image](images/5.jpg)
-![image](images/6.jpg)
-![image](images/7.jpg)
-![image](images/8.jpg)
+## Images
+
+![assembly](1.jpg)
+![assembly](2.jpg)
+![assembly](3.jpg)
+![assembly](4.jpg)
+![assembly](5.jpg)
+![assembly](6.jpg)
+![assembly](7.jpg)
+![assembly](8.jpg)
