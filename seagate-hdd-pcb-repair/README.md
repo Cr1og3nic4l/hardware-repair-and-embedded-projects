@@ -125,3 +125,11 @@ SMD soldering
 electronic component identification
 
 data recovery troubleshooting
+## Images
+![Soldering](1.png)
+![Soldering](2.jpg)
+![Soldering](3.JPG)
+![Soldering](4.JPG)
+![Soldering](5.JPG)
+![Soldering](6.jpg)
+![Soldering](7.jpg)
