@@ -126,3 +126,14 @@ automatic service restart after reboot
 ability to host multiple bots simultaneously
 
 The project demonstrates how a Raspberry Pi 5 can be used as a small-scale infrastructure node for automation and AI-driven Discord services.
+## Images
+
+![assembly](1.jpg)
+![assembly](2.jpg)
+![assembly](3.jpg)
+![assembly](4.jpg)
+![assembly](5.jpg)
+![assembly](6.jpg)
+![assembly](7.jpg)
+![assembly](8.jpg)
+![assembly](9.jpg)
