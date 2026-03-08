@@ -9,16 +9,30 @@ This repository documents real-world technical work including Raspberry Pi syste
 ## Projects
 
 ### Raspberry Pi 5 – Portable Mini Tablet
-Custom portable computing device built using a Raspberry Pi 5 integrated with a 3.5" GPIO touchscreen display inside a PLA+ enclosure.
+Custom portable Raspberry Pi 5 system with GPIO touchscreen.
 
-Main aspects:
-- Embedded system assembly
-- GPIO display configuration
-- Linux system troubleshooting
-- Portable diagnostic workstation design
+[View Project](./raspberry-pi-mini-tablet)
 
-Project folder:
-`raspberry-pi-mini-tablet`
+---
+
+### Raspberry Pi 5 – AI Discord Bot Server
+Dedicated low-power server running Python AI moderation bots.
+
+[View Project](./raspberry-pi-discord-bot-server)
+
+---
+
+### Samsung S7 Edge – RF Chip Hardware Repair
+Board-level smartphone repair replacing the Qualcomm WTR4905 RF chip.
+
+[View Project](./samsung-s7-rf-chip-repair)
+
+---
+
+### Seagate HDD – PCB Repair
+Hard drive PCB repair involving SMD resistor replacement and diagnostics.
+
+[View Project](./seagate-hdd-pcb-repair)
 
 ---
 
