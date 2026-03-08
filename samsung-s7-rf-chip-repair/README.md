@@ -171,3 +171,4 @@ The repair demonstrates the process of diagnosing and replacing a BGA RF chip on
 ![sas7e](5.png)
 ![sas7e](6.png)
 ![sas7e](7.png)
+
