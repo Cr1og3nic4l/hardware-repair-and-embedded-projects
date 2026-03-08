@@ -137,3 +137,4 @@ The project demonstrates how a Raspberry Pi 5 can be used as a small-scale infra
 ![assembly](7.jpg)
 ![assembly](8.jpg)
 ![assembly](9.jpg)
+ 
