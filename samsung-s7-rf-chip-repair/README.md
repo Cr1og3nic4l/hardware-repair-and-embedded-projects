@@ -162,12 +162,12 @@ stable mobile network detection
 complete hardware-level repair of RF subsystem
 
 The repair demonstrates the process of diagnosing and replacing a BGA RF chip on a smartphone logic board, restoring full communication capability without replacing the entire motherboard.
-#image
+## Image
 
-1.jpg
-2.png
-3.jpg
-4.jpg
-5.png
-6.png
-7.png
+!(1.jpg)
+!(2.png)
+!(3.jpg)
+!(4.jpg)
+!(5.png)
+!(6.png)
+!(7.png)
