@@ -6,6 +6,20 @@ This repository documents real-world technical work including Raspberry Pi syste
 
 ---
 
+## Technical Portfolio
+
+Hardware engineering and embedded systems projects focused on diagnostics, repair, and small-scale infrastructure.
+
+Specialization areas:
+
+- Embedded systems (Raspberry Pi)
+- Board-level electronics repair
+- RF and mobile hardware diagnostics
+- Micro soldering and BGA component replacement
+- Python-based automation infrastructure
+
+---
+
 ## Projects
 
 ### Raspberry Pi 5 – Portable Mini Tablet
