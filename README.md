@@ -114,3 +114,19 @@ Project folder:
 - soldering tools
 - hardware schematics
 - embedded diagnostics
+
+---
+
+## About
+
+Hands-on technical specialist with background in hardware repair, embedded systems, and infrastructure troubleshooting.
+
+Experience includes:
+
+- board-level electronics repair
+- smartphone logic board diagnostics
+- Raspberry Pi system deployment
+- Python automation systems
+- hardware troubleshooting and diagnostics
+
+This repository showcases practical engineering work and real-world technical problem solving.
