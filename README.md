@@ -50,6 +50,53 @@ Hard drive PCB repair involving SMD resistor replacement and diagnostics.
 
 ---
 
+### AI Vision Assistant - Portable Raspberry Pi LLM Device (2025)
+Portable AI assistant running a local LLM with vision capabilities. Uses Raspberry Pi Camera Module 3 NoIR to see the environment and provide assistance. Built in a custom 3D-printed case with GorillaPod mount.
+
+**Project folder:** `/Ai-Vision-Assistant`
+
+---
+
+### Soundboard Beep Generator (2025)
+DIY electronic soundboard based on logic ICs (CD4011 + CD4066). Generates various beeps and tones. Fully hand-soldered custom PCB.
+
+**Project folder:** `/Beep-generator`
+
+### Digital Alarm Clock Module (2025)
+Simple digital clock and alarm system based on STC12C2052 microcontroller with 7-segment display and buzzer.
+
+**Project folder:** `/Alarm-Timer`
+
+--------
+
+## Skills Demonstrated
+- Embedded systems assembly
+- Raspberry Pi infrastructure
+- AI + Computer Vision on edge devices
+- Hardware diagnostics
+- Board-level electronics repair
+- BGA chip replacement
+- RF subsystem troubleshooting
+- Linux system configuration
+- Python server deployment
+- Soldering and microelectronics repair
+
+## Tools Used
+- Raspberry Pi 5
+- Python
+- Linux / SSH
+- Hot air rework station
+- Soldering tools
+- Hardware schematics
+- Embedded diagnostics
+
+## About
+Hands-on technical specialist with background in hardware repair, embedded systems, and infrastructure troubleshooting.
+
+This repository showcases practical engineering work and real-world technical problem solving.
+
+---
+
 ### Raspberry Pi 5 – AI Discord Bot Server
 Low-power dedicated infrastructure node running Python-based Discord moderation and AI bots 24/7.
 
