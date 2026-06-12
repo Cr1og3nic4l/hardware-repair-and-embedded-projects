@@ -14,12 +14,12 @@ Perfect for audio experiments, simple alarms, or as a foundation for more advanc
 
 **Gallery**
 
-![Components layout](projects/soundboard-beep-generator/1.jpg)
-![PCB front side](projects/soundboard-beep-generator/2.jpg)
-![Partial assembly](projects/soundboard-beep-generator/3.jpg)
-![Almost completed](projects/soundboard-beep-generator/4.jpg)
-![Final details](projects/soundboard-beep-generator/5.jpg)
-![Full view](projects/soundboard-beep-generator/6.jpg)
+![Components layout](1.jpg)
+![PCB front side](2.jpg)
+![Partial assembly](3.jpg)
+![Almost completed](4.jpg)
+![Final details](5.jpg)
+![Full view](6.jpg)
 
 **Notes**  
 First working version limited to basic sounds. Future improvements: add a microcontroller for custom sound sequences.
