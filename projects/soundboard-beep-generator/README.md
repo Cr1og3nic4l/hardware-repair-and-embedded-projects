@@ -1,4 +1,6 @@
-## Soundboard Beep Generator (2025)
+---
+
+### Soundboard Beep Generator (2025)
 
 **Description**  
 DIY electronic soundboard project based on logic ICs. Generates various beeps and tones using CD4011 (quad NAND gates) and CD4066 (analog switches).  
